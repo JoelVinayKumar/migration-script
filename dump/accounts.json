@@ -1,0 +1,44 @@
+[
+  {
+    "id": 8,
+    "user_id": "f69e344e376945b3a60291dd63830c4d",
+    "nylas_account_id": "hello",
+    "email": "hello@email.com",
+    "provider": "",
+    "sync_state": "",
+    "cursor": null,
+    "nylas_token": "hello",
+    "mail_provider_token": "",
+    "createdAt": "2020-01-06T00:25:31.000Z",
+    "is_active": 0,
+    "updatedAt": "2020-01-06T01:26:36.000Z"
+  },
+  {
+    "id": 18,
+    "user_id": "b2f4f00baf5645b8a0b8662746151137",
+    "nylas_account_id": "c8rsvitgp6yuzqkbu02pd2509",
+    "email": "auzmor-hire-events@auzmor.com",
+    "provider": "gmail",
+    "sync_state": "1//04FNaUfRMpTFDCgYIARAAGAQSNwF-L9IrwBDsxq8Hnu4VhVZH-u1GXzyp0o41j6EZZiWsQ7s3IgU67pdlVQlwl4rjJPTnoPxxZNc",
+    "cursor": "4ilrt4vbsga8tv04sskvirk1b",
+    "nylas_token": "UHvKSJzN1oEnLobVqQRbFvzNFUZ0Jx",
+    "mail_provider_token": "afasdfbjasbedjk",
+    "createdAt": "2020-02-10T03:53:00.000Z",
+    "is_active": 1,
+    "updatedAt": "2020-03-12T06:32:37.000Z"
+  },
+  {
+    "id": 19,
+    "user_id": "3055fa851be140588c0e6c165cacdbb5",
+    "nylas_account_id": "4s7lux513ju09czbo29wiebb",
+    "email": "mandeep@auzmor.com",
+    "provider": "gmail",
+    "sync_state": "afasdfbjasbedjk",
+    "cursor": "2pnz463zto7i0oj4prqmv5nph",
+    "nylas_token": "2pnz463zto7i0oj4prqmv5nphabc",
+    "mail_provider_token": "1//04hiy1cWMlI-ICgYIARAAGAQSNwF-L9IrKrqXS6KHeYBQnvrbl1ei8LyExm6Ub6IULPbrdR93tw6rd8nExrTTvLU1SnWHN7Av2Bc",
+    "createdAt": "2020-02-11T11:16:15.000Z",
+    "is_active": 1,
+    "updatedAt": "2020-02-11T12:37:26.000Z"
+  }
+]
